@@ -1,0 +1,31 @@
+{
+  "name": "python_abi",
+  "version": "3.14",
+  "build": "2_cp314",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "subdir": "linux-64",
+  "fn": "python_abi-3.14-2_cp314.conda",
+  "md5": "2941eafd164ef71a6b90f0b2c37afe0b",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/python_abi-3.14-2_cp314.conda",
+  "sha256": "3e02c5269a87d3da02eb0a9aa215ae006fdf07e9f63954b8f21558b2f5d645db",
+  "depends": [],
+  "constrains": [
+    "python 3.14.* *_cp314"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1764021026000,
+  "size": 5984,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/home/irum/miniconda3/pkgs/python_abi-3.14-2_cp314.conda",
+  "extracted_package_dir": "/home/irum/miniconda3/pkgs/python_abi-3.14-2_cp314",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/home/irum/miniconda3/pkgs/python_abi-3.14-2_cp314",
+    "type": 1
+  }
+}
